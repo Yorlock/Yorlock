@@ -4,7 +4,7 @@ My name is Dominik and I come from Poland. I am a .Net Developer with about 3 ye
 
 <h3 align="left">💼 My Experience</h3>
 
-**.Net Developer** (Since October 2021):
+**.Net Developer** (October 2021 - September 2024):
 
 I have used various technologies such as .NET, SQL, MSI installer, NSIS, and worked with some APIs. I worked with many different drivers, such as ODBC, Excel, OLEDB. My responsibilities include:
 - Effective delivery of new functionality from concept to finalization.
