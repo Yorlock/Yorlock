@@ -44,10 +44,6 @@ Framework:\
 Cloud Services:\
 ![AWS](https://img.shields.io/badge/AWS-%23F05033.svg?&style=for-the-badge&logo=AWS&logoColor=black&color=black)&nbsp;
 
-<h3 align="left">Stats:</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yorlock&show_icons=true&theme=radical&hide=contribs)
-
 <h3 align="left">📫 Let's Connect!</h3>
 
 <p align="center">
