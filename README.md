@@ -1,19 +1,20 @@
 <h1 align="center">Hello there 👋</h1>
 
-My name is Dominik and I come from Poland. I work as a .Net Developer since 2021. I put great focus on creating and developing software according to the principles of quality code. I enjoy facing new challenges in the IT world. In my leisure time, I like to run, learn foreign languages, play games and watch cult movies.
+My name is Dominik and I come from Poland. I am an experienced .NET Developer with over 4 years of professional experience designing, developing, and maintaining microservices, desktop applications and backend systems. Skilled in C#, SQL, domain driven design and distributed systems, with hands-on expertise in AWS, EF Core, Infrastructure as code and Minimal API development. I put great focus on creating and developing software according to the principles of quality code. I enjoy facing new challenges in the IT world. In my leisure time, I like to run, learn foreign languages, play games and watch cult movies.
 
 <h3 align="left">💼 My Experience</h3>
 
 **Junior .Net Developer** (October 2024 - Current):
+- Designed and developed high-performance microservices using C# for payment processing systems that handled large transaction volumes across thousands of customer accounts.
+- Leveraged technologies such as AWS, Docker, EF Core, and MassTransit to build scalable, distributed backend services and ensure reliable system operation.
+- Implemented robust testing, validation, and security practices using xUnit for automated test coverage, FluentValidation for data integrity, and JWT/OAuth 2.0 for secure, standards-based authentication.
 
 **.Net Developer** (October 2021 - September 2024):
 
-I have used various technologies such as .NET, SQL, MSI installer, NSIS, and worked with some APIs. I worked with many different drivers, such as ODBC, Excel, OLEDB. My responsibilities include:
-- Effective delivery of new functionality from concept to finalization.
-- Analyzing problems in existing software to find effective solutions.
-- Fixing bugs in code to ensure that the product works correctly.
-- Using a software development practices, such as software testing, version control, code review, clean code and CI/CD, to ensure high quality and efficient work on projects.
-- Manage project development, planning new features and implementation schedule.
+I used various technologies such as .NET, SQL, MSI installer, NSIS, and worked with some APIs. I worked with many different drivers, such as ODBC, Excel, OLEDB.
+- Designed and developed internal desktop tools in C# using WPF for log analysis, data manipulation, and data processing across multiple devices and data formats.
+- Implemented and maintained a desktop application and API-based service that scheduled and synchronized various processes, ensuring reliability and smooth cooperation between systems.
+- Communicated with customers, planned new features, and managed production releases.
 
 <h3 align="left">🛠️ My experience</h3>
 
