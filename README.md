@@ -4,7 +4,9 @@ My name is Dominik and I come from Poland. I am an experienced .NET Developer wi
 
 <h3 align="left">💼 My Experience</h3>
 
-**Junior .Net Developer** (October 2024 - Current):
+**Software Developer** (October 2025 - Current):
+
+**Junior Software Developer** (October 2024 - October 2025):
 - Designed and developed high-performance microservices using C# for payment processing systems that handled large transaction volumes across thousands of customer accounts.
 - Leveraged technologies such as AWS, Docker, EF Core, and MassTransit to build scalable, distributed backend services and ensure reliable system operation.
 - Implemented robust testing, validation, and security practices using xUnit for automated test coverage, FluentValidation for data integrity, and JWT/OAuth 2.0 for secure, standards-based authentication.
@@ -24,7 +26,6 @@ Programming Languages:\
 ![Java](https://img.shields.io/badge/java-00599C.svg?style=for-the-badge&logo=java&logoColor=white&color=black&labelColor=blue)&nbsp;
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black&labelColor=blue)&nbsp;
 ![R](https://img.shields.io/badge/R-00599C.svg?style=for-the-badge&logo=r&logoColor=white&color=black&labelColor=blue)&nbsp;
-![Kotlin](https://img.shields.io/badge/kotlin-00599C.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=black&labelColor=blue)&nbsp;
 
 Databases:\
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4479A1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white&color=black&labelColor=grey)&nbsp;
